@@ -3,7 +3,7 @@
 ---
 
 
-I'm a self-taught passionate FrontEnd developer.
+I'm a self-taught passionate Frontend developer.
 
 A Frontend Developer specializing in JavaScript technologies. Professional experience with the technologies listed in the **toolbox** below.
 
