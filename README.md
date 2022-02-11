@@ -26,35 +26,6 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 
 ---
 
-📺 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Tech Unfiltered with @Francesco Ciulla  - Social Media, YouTube and Community](https://www.youtube.com/watch?v=KeJ7MlwwVK4)
-- [Break out of tutorial hell NOW](https://www.youtube.com/watch?v=blot-hR3ZWA)
-- [Make Money As A Developer By Selling APIs](https://www.youtube.com/watch?v=TvRe8NLbF30)
-- [Build a Voting App for Tech Courses with GraphCMS and Nuxt](https://www.youtube.com/watch?v=bsOHkdYFSK4)
-- [Demo of GitHub Copilot](https://www.youtube.com/watch?v=edSZh-tpTIk)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1)
-
----
-
-📘 Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Install a Specific Version of a Node.JS Package](https://catalins.tech/install-a-specific-version-of-a-nodejs-package)
-- [Build An E-Commerce Backend With Minimal Code](https://catalins.tech/hasura-ecommerce-backend)
-- [How to Push Empty Git Commits](https://catalins.tech/git-empty-commit)
-- [Deploy a PostgreSQL Database on Heroku](https://catalins.tech/heroku-postgres)
-- [How to Set Environment Variables on Heroku](https://catalins.tech/heroku-environment-variables)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...more blog articles](https://catalins.tech)
-
----
-
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azamatfrontend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
