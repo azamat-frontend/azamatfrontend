@@ -31,13 +31,3 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azamatfrontend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamatfrontend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
