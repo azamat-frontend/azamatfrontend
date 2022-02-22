@@ -28,4 +28,4 @@ I create tech content, mostly about Web Development and JavaScript.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azamatfrontend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamatfrontend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamatfrontend&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
