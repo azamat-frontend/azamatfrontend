@@ -11,6 +11,10 @@ I create tech content, mostly about Web Development and JavaScript.
 
 ---
 
+![github](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+
+---
+
 🧰 Toolbox
 
 <code><img src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML" width="50" height="50" /></code>
