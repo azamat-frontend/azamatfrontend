@@ -11,7 +11,9 @@ I create tech content, mostly about Web Development and JavaScript.
 
 ---
 
-![github](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+<a href="https://www.instagram.com/azamatfrontend/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
 
 ---
 
